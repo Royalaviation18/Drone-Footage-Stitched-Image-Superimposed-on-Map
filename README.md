@@ -111,8 +111,7 @@ Reason: Urban flyover view with good stitching potential
 
 🎥 Walkthrough Video
 
- [![Link to 5+ min demo video](https://www.loom.com/share/df9434941d5844efb56821b688db5cb9?sid=04ca5a87-fb51-409b-9645-aa4d1dc38947)
-
+[![Watch the Demo]]([https://www.loom.com/share/d99d8c8b58c349098e818ed3888e995b?sid=2a83a575-7c0a-43bb-8729-c7a5db6587bc](https://www.loom.com/share/df9434941d5844efb56821b688db5cb9?sid=04ca5a87-fb51-409b-9645-aa4d1dc38947https://www.loom.com/share/df9434941d5844efb56821b688db5cb9?sid=04ca5a87-fb51-409b-9645-aa4d1dc38947))
 
 ✅ Final Outputs
 

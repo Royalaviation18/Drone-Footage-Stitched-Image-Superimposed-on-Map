@@ -59,7 +59,7 @@ Reason: Urban flyover view with good stitching potential
 
  #### Library Used: OpenCV (Stitcher_SCANS)
 
-- Why SCANS mode?: Optimized for top-down stitching like drone or satellite maps
+- Why SCANS mode?: Optimised for top-down stitching like drone or satellite maps
 
 - Result: Single large image stitched_output.png
 
@@ -83,7 +83,7 @@ Reason: Urban flyover view with good stitching potential
 
 - Video origin coordinates
 
-- Visual landmarks in stitched image
+- Visual landmarks in the stitched image
 
 - Map alignment trial and error
 

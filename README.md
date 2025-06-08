@@ -102,7 +102,7 @@ Reason: Urban flyover view with good stitching potential
 
 🧪 Challenges Faced
 
-- Aligning stitched image with real-world bounds manually
+- Aligning the stitched image with the real-world bounds manually
 
 - Avoiding ghosting due to overlapping motion
 
@@ -130,12 +130,4 @@ Reason: Urban flyover view with good stitching potential
 
 - WGS84 (EPSG:4326) — used for bounding boxes in Folium
 
-
-👤 Author
-
-- Name: Rohit Priyadarshi
-
-- GitHub: https://github.com/royalaviation18
-
-- Email: rohitp2203@gmail.com
 
